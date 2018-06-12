@@ -74,7 +74,7 @@ If you leave your work after you've pushed it to github and want to start workin
 
 After you get your fresh project set up I highly reccomend starting off by following along with Avi as he walks you through the project on this video:
 
-https://www.youtube.com/watch?v=_lDExWIhYKI
+[Avi CLI Tutorial](https://www.youtube.com/watch?v=_lDExWIhYKI)
 
 It's super important to at least perform some of the actions he starts off with there in his video to get the project under way. 
 
