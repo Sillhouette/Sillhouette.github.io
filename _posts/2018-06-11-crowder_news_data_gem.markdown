@@ -48,7 +48,7 @@ https://i.imgur.com/undefined.png
 
 6. Paste those commands into the terminal to connect github to your local project and push your files to github.
 
-![pushing the files to guthub](https://imgur.com/a/GmXakkQ)
+![pushing the files to guthub](https://i.imgur.com/WRy90KB.png)
 
 7. Refresh your github page and you should see your files in there:
 
