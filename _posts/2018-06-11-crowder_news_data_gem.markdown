@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Crowder News Data Gem"
+title:      "Crowder News Data Gem: Getting Started"
 date:       2018-06-11 20:00:52 -0400
 permalink:  crowder_news_data_gem
 ---
@@ -14,7 +14,7 @@ Here is how it's done:
 
 First you open your IDE, whether it's the desktop one or the browser one, it shouldn't matter: 
 
-https://i.imgur.com/b9kUrxK.png
+[![Fresh IDE](https://i.imgur.com/b9kUrxK.png)](https://i.imgur.com/b9kUrxK.png)
 
 Then you need to type some commands into the terminal:
 
@@ -26,7 +26,7 @@ Bundling your gem project:
 5. Type "cd ./project_name" to go into your new project directory
 6. Type "git init" which initiates the git in your project
 
-https://i.imgur.com/PJAX5SQ.png
+[![Fresh IDE](https://i.imgur.com/PJAX5SQ.png)](https://i.imgur.com/PJAX5SQ.png)
 
 Now you have a fresh project in the IDE to work with. We just need to connect that project to github so it can be saved in their servers and accessed at any time. This is IMPORTANT because the learn IDE works on the Learn servers and does not save any work locally. That means if you disconnect from their servers it is likely you lose any work that was not previously pushed to github. Here is how to add your new project to github:
 
@@ -34,25 +34,25 @@ Here is what you do on GitHub:
 
 1. Log into github and click "Start a new project"
 
-https://i.imgur.com/undefined.png
+[![Starting new project](https://i.imgur.com/embLgAR.png)](https://i.imgur.com/embLgAR.png)
 
 2. Enter your project name and an (optional) description then hit create project
 
-https://i.imgur.com/undefined.png
+[![Defining new Project](https://i.imgur.com/CL6r9yS.png](https://i.imgur.com/CL6r9yS.png)
 
 3. Then go back to your IDE and type "git add ." to add your project to add the files to be commited to git.
 4. Type "'git commit -m "message for first commit"' to get your commit ready to be pushed to github
 5. Then go back to the project on github and copy the two lines of code that are highlighted in the next picture:
 
-https://i.imgur.com/undefined.png
+[![Copying Links](https://i.imgur.com/EigdY3j.png](https://i.imgur.com/EigdY3j.png)
 
 6. Paste those commands into the terminal to connect github to your local project and push your files to github.
 
-![pushing the files to guthub](https://i.imgur.com/WRy90KB.png)
+[![pushing the files to guthub](https://i.imgur.com/WRy90KB.png)](https://i.imgur.com/WRy90KB.png)
 
 7. Refresh your github page and you should see your files in there:
 
-https://imgur.com/a/NKb8tow
+[![Checking Files on GitHub](https://i.imgur.com/3acZB9C.png)](https://i.imgur.com/3acZB9C.png)
 
 A couple notes:
 
@@ -66,11 +66,11 @@ If you leave your work after you've pushed it to github and want to start workin
 
 1. Go to your project in github and click the "Clone/Download" button and Copy the ssh link they provide:
 
-https://i.imgur.com/S7ZqXHU.png
+[![Clone Button](https://i.imgur.com/S7ZqXHU.png)](https://i.imgur.com/S7ZqXHU.png)
 
 2. Open your fresh IDE, whether desktop or browser and type "git clone git@github.com:Sillhouette/project_name.git" where that url is the url of your project rather than mine
 
-https://i.imgur.com/dpznJxe.png
+[![Clone Button](https://i.imgur.com/dpznJxe.png)](https://i.imgur.com/dpznJxe.png)
 
 After you get your fresh project set up I highly reccomend starting off by following along with Avi as he walks you through the project on this video:
 
