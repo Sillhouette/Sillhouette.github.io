@@ -70,7 +70,7 @@ If you leave your work after you've pushed it to github and want to start workin
 
 2. Open your fresh IDE, whether desktop or browser and type "git clone git@github.com:Sillhouette/project_name.git" where that url is the url of your project rather than mine
 
-![Cloned project](https://imgur.com/dpznJxe)
+![Cloned project](https://i.imgur.com/dpznJxe.png)
 
 After you get your fresh project set up I highly reccomend starting off by following along with Avi as he walks you through the project on this video:
 
