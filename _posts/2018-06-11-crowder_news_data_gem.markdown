@@ -19,12 +19,12 @@ First you open your IDE, whether it's the desktop one or the browser one, it sho
 Then you need to type some commands into the terminal:
 
 Bundling your gem project:
-1. type "bundle gem project_name" To create a file structure
-2. Press "enter/return"
-3. Type "y" to add a liscence to your program
-4. Type "y" to add a code of conduct to your program
-5. Type "cd ./project_name" to go into your new project directory
-6. Type "git init" which initiates the git in your project
+* Type "bundle gem project_name" To create a file structure
+* Press "enter/return"
+* Type "y" to add a liscence to your program
+* Type "y" to add a code of conduct to your program
+* Type "cd ./project_name" to go into your new project directory
+* Type "git init" which initiates the git in your project
 
 [![Fresh IDE](https://i.imgur.com/PJAX5SQ.png)](https://i.imgur.com/PJAX5SQ.png)
 
@@ -32,25 +32,25 @@ Now you have a fresh project in the IDE to work with. We just need to connect th
 
 Here is what you do on GitHub:
 
-1. Log into github and click "Start a new project"
+* Log into github and click "Start a new project"
 
 [![Starting new project](https://i.imgur.com/embLgAR.png)](https://i.imgur.com/embLgAR.png)
 
-2. Enter your project name and an (optional) description then hit create project
+* Enter your project name and an (optional) description then hit create project
 
 [![Defining new Project](https://i.imgur.com/CL6r9yS.png)](https://i.imgur.com/CL6r9yS.png)
 
-3. Then go back to your IDE and type "git add ." to add your project to add the files to be commited to git.
-4. Type "'git commit -m "message for first commit"' to get your commit ready to be pushed to github
-5. Then go back to the project on github and copy the two lines of code that are highlighted in the next picture:
+* Then go back to your IDE and type "git add ." to add your project to add the files to be commited to git.
+* Type "'git commit -m "message for first commit"' to get your commit ready to be pushed to github
+*  Then go back to the project on github and copy the two lines of code that are highlighted in the next picture:
 
 [![Copying Links](https://i.imgur.com/EigdY3j.png)](https://i.imgur.com/EigdY3j.png)
 
-6. Paste those commands into the terminal to connect github to your local project and push your files to github.
+* Paste those commands into the terminal to connect github to your local project and push your files to github.
 
 [![pushing the files to guthub](https://i.imgur.com/WRy90KB.png)](https://i.imgur.com/WRy90KB.png)
 
-7. Refresh your github page and you should see your files in there:
+* Refresh your github page and you should see your files in there:
 
 [![Checking Files on GitHub](https://i.imgur.com/3acZB9C.png)](https://i.imgur.com/3acZB9C.png)
 
