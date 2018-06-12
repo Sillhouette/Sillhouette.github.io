@@ -58,17 +58,17 @@ A couple notes:
 
 Like I said before, if you don't do this you risk losing any work you do due to not having your own local enviroment set up. If you need to take a break from your work thats fine, just make sure you push any changes you made to github like this:
 
-1. Type "git add ." to get all of your altered files ready to commit
-2. Type "git commit -m "commit message contents" to commit them to git
-3. Type "git push" to push the files to your github
+* Type "git add ." to get all of your altered files ready to commit
+* Type "git commit -m "commit message contents" to commit them to git
+* Type "git push" to push the files to your github
 
 If you leave your work after you've pushed it to github and want to start working on it again, it's simple to retrieve:
 
-1. Go to your project in github and click the "Clone/Download" button and Copy the ssh link they provide:
+* Go to your project in github and click the "Clone/Download" button and Copy the ssh link they provide:
 
 [![Clone Button](https://i.imgur.com/S7ZqXHU.png)](https://i.imgur.com/S7ZqXHU.png)
 
-2. Open your fresh IDE, whether desktop or browser and type "git clone git@github.com:Sillhouette/project_name.git" where that url is the url of your project rather than mine
+* Open your fresh IDE, whether desktop or browser and type "git clone git@github.com:Sillhouette/project_name.git" where that url is the url of your project rather than mine
 
 [![Clone Button](https://i.imgur.com/dpznJxe.png)](https://i.imgur.com/dpznJxe.png)
 
