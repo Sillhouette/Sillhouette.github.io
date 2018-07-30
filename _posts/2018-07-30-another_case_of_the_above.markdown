@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Another case of the above"
-date:       2018-07-30 19:22:12 +0000
+date:       2018-07-30 15:22:13 -0400
 permalink:  another_case_of_the_above
 ---
 
@@ -26,3 +26,7 @@ The application is finally complete with the abilities to:
 * Add cards to your decks, view those cards
 
 This was a long and involved project but I am proud of the result as it is comprehensive and works well.
+
+Until next time,
+
+Austin
