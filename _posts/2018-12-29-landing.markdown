@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Landing       "
+date:       2018-12-29 22:44:21 +0000
+permalink:  landing
+---
+
+
+Alas we have reached the end of this Journey. Learning React was tough but alot of fun for me. I showed me a whole new way to approach programming, specifically with Javascript which is a language I initially did not like. I now see it's uses and have come to admire the functionality you gain with a language that works the way javascript does. 
+
+I like React for a number of reasons. The ability to split your application into a number of smaller components that ultimately make up the big picture is really cool. The way the React developers designed the language to work by giving the components state and lifecycles and the like is really interesting. There are numerous uses for programming in this manner and it is an exceptional way to approach programming the front-end of a project. 
+
+I am now waiting for the review of my final project and looking forward to completing the course and moving onto the next chapter of my life. I will begin by working with Flatiron to help other students work their way through the course fow a while. From that point on, there are numerous possibilities in this age for me to make a career out of myself with what I learned over the last several months and I look forward to taking advantage of the best of them. 
+
+Until next time, 
+
+Austin Melchior
