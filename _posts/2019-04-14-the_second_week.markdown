@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The second week"
-date:       2019-04-14 23:59:37 +0000
+date:       2019-04-14 19:59:38 -0400
 permalink:  the_second_week
 ---
 
