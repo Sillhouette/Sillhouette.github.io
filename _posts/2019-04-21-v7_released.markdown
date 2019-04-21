@@ -1,0 +1,18 @@
+---
+layout: post
+title:      "V7 Released"
+date:       2019-04-21 20:07:41 +0000
+permalink:  v7_released
+---
+
+
+Flatiron has released it's latest version of the Web Development curriculum. This comes with many changes including a rebuffed look at git and how it works as well as more coherent HTML and CSS sections. I am excited to dive into these new additions so I can see what else they have to offer me and so I know what I'm looking at when a student comes to me with a problem with the new labs. 
+
+The job search is ongoing, there were some setbacks with the full-time position at Flatiron but I hope we can overcome the issues and move forward with that as I would like to continue working with them. 
+
+That's not to say I'm not open to anything anywhere else. I am continuing my search and applying at other positions I am interested in. 
+
+You can continue to follow my progress via this blog.
+
+Until next time, 
+Austin
