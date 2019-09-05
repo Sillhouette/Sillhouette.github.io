@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Crowder News Data Gem: Getting Started"
+title:      "CLI Data Gem: Getting Started"
 date:       2018-06-11 20:00:52 -0400
 permalink:  crowder_news_data_gem
 ---
