@@ -138,7 +138,7 @@ Streaming app:
 I was able to accomplish all of this by using Digital Ocean Cloud Hosting and configuring seperate droplets for each app, I have two $10 droplets for the MTG site and Portfolio site respectively, and two $5 droplets, one for the streaming website and a seperate one that runs the NodeJS RTMP server that handles the video streams. 
 I am extremely happy with the amount and quality of documentation and community help found on Digital Ocean and I highly recommend using them if you are paying for a host. 
 
-If you decide to go with them you can use the following link to sign up: https://m.do.co/c/e4868c71fe66 
+If you decide to go with them you can use the following link to sign up: [Sign up for $50 credit with Digital Ocean](https://m.do.co/c/e4868c71fe66 )
 If you use my link you will get $50 of credit for the first month and you can use that time to work out how to host your own app and cancel your account if you dont like the service. 
 
 Thanks for taking the time to read, in the next post for the series I will introduce you to web servers, SSL, and web caching and we can talk about why it's important. The rest of the series will go over how to deploy Rails and React/Rails apps to Heroku and Digital Ocean droplets. 
