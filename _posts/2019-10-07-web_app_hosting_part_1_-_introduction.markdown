@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Web app Hosting: Part 1: Introduction"
+title:      "Web app Hosting: Part 1 - Introduction"
 date:       2019-10-07 19:33:12 -0400
 permalink:  web_app_hosting_part_1_-_introduction
 ---
