@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Web App Hosting: Part 2 - Web Servers, SSL, Web Caching, and Audits"
-date:       2019-10-08 15:46:15 +0000
+date:       2019-10-08 11:46:16 -0400
 permalink:  web_app_hosting_part_2_-_web_servers_ssl_web_caching_and_audits
 ---
 
@@ -101,3 +101,5 @@ The best practices audit checks your web page to ensure that you are following a
 The search engine optimization audit checks your page to see if it has a number of elements that search engines look for when looking to rank your page for search results. Some of these elements include the document having a `title` element, the document containing appropriate `meta` tags, and whether or not the page has a successful HTTP status code. These things are extremely important if you want your site to be on the front page of search engine results so that you can be seen by the world.
 
 Now that we have a little more information about the different technologies that we can use to enchance our application in a number of different ways, lets get into the fun stuff, how to host various applications on Heroku, and Digital Ocean. 
+
+- Austin
