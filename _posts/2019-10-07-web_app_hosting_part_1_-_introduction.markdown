@@ -9,11 +9,11 @@ permalink:  web_app_hosting_part_1_-_introduction
 Table of Contents:
 
 1. Introduction and choosing a Web Host
-2. Introduction to Web Servers, SSL, Web Caching, and Audits
-3. How to deploy a Rails app to Heroku
-4. How to deploy a Rails API with ReactJs front end to Heroku
-5. How to deploy a Rails App to a Digital Ocean Droplet
-6. How to deploy a Rails API with ReactJs front end to a Digital Ocean droplet
+2. [Introduction to Web Servers, SSL, Web Caching, and Audits](http://)
+3. [How to deploy a Rails app to Heroku](http://)
+4. [How to deploy a Rails API with ReactJs front end to Heroku](http://)
+5. [How to deploy a Rails App to a Digital Ocean Droplet](http://)
+6. [How to deploy a Rails API with ReactJs front end to a Digital Ocean droplet](http://)
 
 
 ## Part 1 - Introduction
