@@ -6,7 +6,7 @@ permalink:  web_app_hosting_part_1_-_introduction
 ---
 
 
-Table of Contents:
+### Table of Contents:
 
 1. Introduction and choosing a Web Host
 2. [Introduction to Web Servers, SSL, Web Caching, and Audits](http://)
